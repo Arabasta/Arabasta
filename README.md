@@ -4,6 +4,9 @@
 
 <details>
   <summary>More</summary>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE4aHdqb3Vtcm4xbzZveGlpbXA2M3czaG02eGtzbTNlN2g0aHR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif"/><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w3b2FsNGJueWxkYWd1czNyNjZlNWRweGIycnBvYjdoZmRqeXFnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif"/>
+
 <img src="https://c.tenor.com/Xfxjc2uL738AAAAd/tenor.gif" />
 
 <img src="https://media1.tenor.com/m/ZniR4XjAeM4AAAAd/creepy-mary.gif"/><!--img src="https://media1.tenor.com/m/qs5pVKHIyTUAAAAd/kakashi-hatake-kakashi.gif" /-->
