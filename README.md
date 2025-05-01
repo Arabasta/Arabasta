@@ -19,4 +19,4 @@
 
 
 ---
-[pfp src](https://www.deviantart.com/ghostskull01z/art/Nero-Black-Clover-928404413)
+[profile pic src](https://www.deviantart.com/ghostskull01z/art/Nero-Black-Clover-928404413)
