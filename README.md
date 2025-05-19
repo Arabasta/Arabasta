@@ -1,6 +1,6 @@
 # ╰(*°▽°*)╯
 
-<img src="https://media1.tenor.com/m/G2orKp98rJMAAAAd/alya.gif"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hjZW1yZWFiaWY5OW53dWd2NWoxYXJmMXM5MGRpZmFreTZibWM1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1SxGghiHM33vJfCTf9/giphy.gif"/>
+<img src="https://c.tenor.com/oJMVPQ_VgkkAAAAC/tenor.gif"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hjZW1yZWFiaWY5OW53dWd2NWoxYXJmMXM5MGRpZmFreTZibWM1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1SxGghiHM33vJfCTf9/giphy.gif"/>
 
 <details>
   <summary>More GIFs</summary>
